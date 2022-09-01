@@ -246,4 +246,11 @@ ul li {
       justify-content: space-between;
       flex-direction: column;
    }
+
+   .header-options {
+      position: fixed;
+      bottom: 5px;
+      width: 100%;
+      left: 60%;
+   }
 }
