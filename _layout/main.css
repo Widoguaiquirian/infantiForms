@@ -226,11 +226,24 @@ ul li {
    nav {
       display: none;
    }
+
    .forms-container {
       display: flex;
-      width: 100%;
+      margin: 0 auto;
+      width: 90%;
       align-items: center;
       flex-direction: column;
       justify-content: space-around;
+   }
+
+   .forms-container form {
+      height: 390px;
+      padding: 3rem 2rem 5rem 2rem;
+      margin: 2rem 0;
+      background-color: rgb(255, 255, 255);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-direction: column;
    }
 }
