@@ -46,7 +46,7 @@ html {
 }
 
 body {
-   font-size: 1.5rem;
+   font-size: 1.4rem;
    font-family: "Kumbh Sans", sans-serif;
    line-height: 1.6;
    color: #444;
@@ -263,7 +263,7 @@ ul li {
       margin: 0 0 1rem 0;
    }
 
-   .btn{
+   .btn {
       margin: 1rem 0;
    }
 }
